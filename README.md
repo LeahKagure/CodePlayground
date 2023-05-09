@@ -1,4 +1,4 @@
-###Coding Playground
+**Coding Playground**
 
 In this repository I explore various programming concepts, languages, techniques and tools to improve my coding capability.
 
