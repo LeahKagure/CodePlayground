@@ -5,4 +5,4 @@ In this repository I explore various programming concepts, languages, techniques
 It will have three directories containing my daily practices:
 - Data Structures
 - Algorithms
-- Leetcode Questions
+- Interview Questions
