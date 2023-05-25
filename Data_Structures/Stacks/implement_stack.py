@@ -1,3 +1,9 @@
+# Write a program to implement a stack and perform the following operations:
+# Push an element onto the stack
+# Pop an element from the stack
+# Check if the stack is empty
+# Display the top element of the stack without removing it
+
 class Stack:
     def __init__(self):
         self.stack = []
