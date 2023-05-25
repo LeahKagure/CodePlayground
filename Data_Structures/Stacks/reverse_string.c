@@ -1,3 +1,5 @@
+// Write a program to reverse a given string using a stack. The input string can contain any characters
+
 #include <stdio.h>
 #include <string.h>
 #define MAX_SIZE 100

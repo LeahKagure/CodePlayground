@@ -1,3 +1,5 @@
+# Write a program to reverse a given string using a stack. The input string can contain any characters
+
 class Stack:
     def __init__(self):
         self.stack = []
