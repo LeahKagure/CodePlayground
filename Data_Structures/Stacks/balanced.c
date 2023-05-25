@@ -1,3 +1,6 @@
+// Write a program to check if a given string of parantheses is balanced or not using a stack
+// The string will only contain parantheses characters '(' and ')'
+
 #include <stdio.h>
 #include <string.h>
 #define MAX_SIZE 100

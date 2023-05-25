@@ -1,3 +1,6 @@
+# Write a program to check if a given string of parantheses is balanced or not using a stack
+# The string will only contain parantheses characters '(' and ')'
+
 class Stack:
     def __init__(self):
         self.stack = []
