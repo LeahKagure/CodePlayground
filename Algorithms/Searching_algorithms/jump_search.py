@@ -1,3 +1,5 @@
+# A program to perform a jump search to find the position of a given element in a sorted array
+
 import math
 
 def jump_search(arr, key):
